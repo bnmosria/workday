@@ -1,8 +1,8 @@
 { 
-  "name": "altruja/workday", 
+  "name": "bnmosria/workday",
   "require": { 
     "php": ">=5.3.0", 
-    "mayflower/holiday": "0.5.*"
+    "mayflower/holiday": "0.7.*"
   },
   "autoload": { 
     "psr-0": {
